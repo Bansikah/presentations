@@ -1,0 +1,6 @@
+[submodule "java-app"]
+	path = java-app
+	url = https://github.com/Bansikah/java-app.git
+[submodule "Exam-prep"]
+	path = Exam-prep
+	url = https://github.com/Bansikah/Exam-prep.git
